@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cc0c6733f7c84a35bd575d2ba691247aae95dfcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d2ec7b8fb55fbe2502d5230d7f440c4c9bdc4d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_f23b5add6cdef9e3bfc7485bb1893fe0b3ba722e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_435c98e1ed8dd203ea20ced11455f174cdc84dc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_9f6b7b972410a6b84464049a0af50237079ce00b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_24f2a92bba0eed1c3cba79a9ee9b3c2442ec873a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_4bc9fdfc31e2c56d2b61f8e804d5978a37783f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_e7d3db78390acaba94963375230f48e3ee447d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_76c98c8571b1fc3c9bb4d21252469587b76d4ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_53895b2ad084a436bc3b7bee5c34174a6b750364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_b9b1d9f56f3b532435fcedacab986b0086ec9b82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_9d3bf6bd93095ee5d0dc4bcad6a4b2e10c954c0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_abacd7eccfcc48c9139f11a3a9a45fef511fc30b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3d440b88a70d74e4860eb825340e4b19bd13f10c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_58c881115dd6cbbf2bf6b28f61f5832c760c0e27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_63c11bcdf0a47d2c9d8d9cb028e1d62693ed23d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2dbcac0c80d978e600fb0d6e7f391cf7cd3d86db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.github.markushi\android-ui\1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.github.markushi-android-ui-1.2_dd41fbd098deb48c93ed7eb2a09ca33d6130633f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_abd392b9533a240902df7ac453ba7dcd230899d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\percent\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c394e9a7e1552a4499c7d7d25e7eccd6a533b6df">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-percent-24.2.1_ad966aea0e8b6a039c8b1a2665c020fb26bc92df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d64f3052ec552e81e8efd30f90eef5ef65f23539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_365f601ff2b90c05ec9d387ce95ba855d1f85443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\it.neokree\MaterialTabs\0.11\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef6aa7ea0bb2d6adf10965d0a5bb8e353517bff">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\it.neokree-MaterialTabs-0.11_ac053a62afc9e68c337816062b2d14f395865c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_f886298d34b3ac9e1f386e57307cbe0eb650438b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_9b8fd0a47eb6faf0cec0d9559e6720d8b1d297cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\hp\Desktop\Nema-Phase2-master\Nematodeinfo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_4812e63a3558dfa2af8aed6b8abb833601bf3273.jar" />
+    </item>
+
+</items>

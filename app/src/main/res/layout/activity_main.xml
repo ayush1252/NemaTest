@@ -46,7 +46,7 @@
         android:textColor="#ffffff"
         android:background="@color/primary_dark"
         android:text="@string/footer"
-        android:textSize="18sp"
+        android:textSize="@dimen/fab_margin"
         android:textAlignment="center"
 
         />

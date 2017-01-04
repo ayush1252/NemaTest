@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                     i.putExtra("key",position);
 
                     startActivity(i);
-                finish();
+                    finish();
 
 
 

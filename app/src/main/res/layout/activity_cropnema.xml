@@ -15,7 +15,6 @@
         android:layout_height="0dp"
         android:orientation="vertical"
         android:layout_weight="9">
-
         <android.support.design.widget.AppBarLayout
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
@@ -28,6 +27,7 @@
             app:popupTheme="@style/AppTheme.PopupOverlay" />
 
 </android.support.design.widget.AppBarLayout>
+
 
     <ListView
         android:id="@+id/list"
@@ -46,11 +46,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="5dp"
+            android:textAlignment="center"
             android:textColor="#ffffff"
             android:background="@color/primary_dark"
             android:text="@string/footer"
-            android:textSize="18sp"
-            android:textAlignment="center" />
+            android:textSize="@dimen/fab_margin" />
     </LinearLayout>
 
 </LinearLayout>

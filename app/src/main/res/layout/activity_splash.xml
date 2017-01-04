@@ -1,20 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:windowSoftInputMode="stateHidden"
-    android:weightSum="10"
-    android:background="@drawable/logoupdated">
+    android:weightSum="10">
 
 
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:weightSum="4"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center">
+
+           <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/emblem"
+                android:layout_gravity="center"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:padding="10dp">
+
+
+          <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/icar"/>
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/iari"/>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+
+
+
+        </LinearLayout>
+        </LinearLayout>-->
+
+<!--
     <LinearLayout
         android:layout_width="match_parent"
         android:orientation="vertical"
         android:layout_height="0dp"
         android:layout_weight="9">
-
         </LinearLayout>
+
+-->
 
 
     <LinearLayout
@@ -29,7 +95,7 @@
             android:text="@string/footer"
             android:textColor="#ffffff"
             android:background="@color/primary_dark"
-            android:textSize="18sp"
+            android:textSize="@dimen/fab_margin"
             android:textAlignment="center"
 
             />
